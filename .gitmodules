@@ -1,0 +1,9 @@
+[submodule "widget/web"]
+	path = widget/web
+	url = git@github.com:JhonatasGk/widget-web.git
+[submodule "widget/server"]
+	path = widget/server
+	url = git@github.com:JhonatasGk/widget-server.git
+[submodule "widget/mobile"]
+	path = widget/mobile
+	url = git@github.com:JhonatasGk/widget-mobile.git
