@@ -59,8 +59,9 @@
 
 ### ⚙️ ORM 
  <div>
-    <img src="	https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
+ 
+ </div>
 
 ## Sobre
 
